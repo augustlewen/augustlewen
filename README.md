@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stronghold Defenders](https://store.steampowered.com/app/3003360/Stronghold_Defenders/)
 
-- 👨‍💻 All of my projects are available at [https://store.steampowered.com/app/3003360/Stronghold_Defenders/](https://store.steampowered.com/app/3003360/Stronghold_Defenders/)
+- 👨‍💻 All of my projects are available at [augustlewen.com](https://augustlewen.com/)
 
 - 📫 How to reach me **agge.lewen@telia.com**
 
